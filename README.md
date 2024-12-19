@@ -4,6 +4,8 @@
 
 Este projeto apresenta uma aplicação interativa para simulação e análise do modelo de filas **M/M/1**, desenvolvido com **Dart/Flutter** e com suporte para plataformas **Web** e **Android**. O sistema permite visualizar gráficos dinâmicos e interativos, ajudando a explorar conceitos teóricos e aplicações práticas em modelagem e simulação discreta.
 
+
+
 ---
 
 ## **✨ Funcionalidades**
@@ -27,6 +29,24 @@ Este projeto apresenta uma aplicação interativa para simulação e análise do
 
 ---
 
+## **📷 Prints**
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/1.png" alt="Tela 1" width="200"/></td>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/2.png" alt="Tela 2" width="200"/></td>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/3.png" alt="Tela 3" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/4.png" alt="Tela 4" width="200"/></td>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/5.png" alt="Tela 5" width="200"/></td>
+      <td><img src="https://github.com/AntonioSantosFilho/APP-SFMM1/blob/main/imageToGithub/mobile/6.png" alt="Tela 6" width="200"/></td>
+    </tr>
+  </table>
+</div>
+
+
+---
 ## **🔧 Como Executar o Projeto**
 
 ### **Para Web**
