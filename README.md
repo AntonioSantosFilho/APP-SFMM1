@@ -52,11 +52,11 @@ Este projeto apresenta uma aplicação interativa para simulação e análise do
 ### **Para Web**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/AntonioSantosFilho/APP-SFMM1.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd APP-SFMM1
    ```
 3. Execute o projeto em modo debug:
    ```bash
